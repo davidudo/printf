@@ -1,4 +1,4 @@
-# Printf project
+# C Printf project
 This `printf` project was built by [David Udo]() and [Glory Kekeyi](). The objective of this project was to help us apply most of the concepts we have learnt so far in C into building a mini project. Also, it objectives was to help us understand how to collaborate with other developers, and also to make us have an understanding of how the C `printf` function actually works.
 
 ## Enviroment
